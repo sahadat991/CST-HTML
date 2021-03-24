@@ -88,7 +88,7 @@ body {
 
 .days li .active {
   padding: 5px;
-  background: #636464;
+  background: rgb(21, 69, 100);
   color: white;
 }
 
